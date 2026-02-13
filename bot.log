@@ -1,0 +1,8 @@
+2026-02-14 01:11:06,276 - INFO - Placing MARKET order | BTCUSDT | BUY | Qty: 0.002 | Price: None
+2026-02-14 01:11:06,278 - ERROR - Order Failed | Error: API Secret required for private endpoints
+2026-02-14 01:16:59,904 - INFO - Placing MARKET order | BTCUSDT | BUY | Qty: 0.002 | Price: None
+2026-02-14 01:17:00,571 - ERROR - Order Failed | Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-02-14 01:17:26,448 - INFO - Placing MARKET order | BTCUSDT | BUY | Qty: 0.002 | Price: None
+2026-02-14 01:17:27,140 - INFO - Order Success | ID: 12250365569 | Status: NEW
+2026-02-14 01:24:01,700 - INFO - Placing MARKET order | BTCUSDT | BUY | Qty: 0.002 | Price: None
+2026-02-14 01:24:02,091 - INFO - Order Success | ID: 12250477980 | Status: NEW
